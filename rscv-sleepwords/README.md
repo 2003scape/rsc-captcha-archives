@@ -2,8 +2,8 @@
 
 These archives include a what is believed to be an important majority of sleepwords used in said server:
 * Although their claim was to have placed around 3k words in their update back time ago, statistically was disproved
-** Taking a sample of 2000 random words from a starting point of 1700 unique words, only 69 (or 3.45%) were new and not duplicated
-** It isn't known exactly how many words are in said server from the Jagex RSC, however it very possible that is only around 1850
+  * Taking a sample of 2000 random words from a starting point of 1700 unique words, only 69 (or 3.45%) were new and not duplicated
+  * It isn't known exactly how many words are in said server from the Jagex RSC, however it very possible that is only around 1850
 
 Notes:
 * The words released were taken before the release of the rsc captcha generator and although their initial source is not known, they seem to be legitimate captures from the original game
